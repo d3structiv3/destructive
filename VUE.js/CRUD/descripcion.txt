@@ -8,6 +8,8 @@ BOOTSTRAP:
     * https://getbootstrap.com/docs/4.5/getting-started/introduction/#starter-template
 LocalStorage:
     * almacenamiento en el DOM
+Material desing
+    *   https://material.io/resources/icons/?style=baseline
 
 
 Trate de comentar lo mejor posible el contenido espero te ayude 
