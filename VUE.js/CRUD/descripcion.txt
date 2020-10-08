@@ -1,0 +1,17 @@
+
+CRUD con localstorage aplicando las tecnologias de:
+
+VUE.js: 
+    * https://vuejs.org/v2/guide/installation.html#CDN
+HTML:
+BOOTSTRAP:
+    * https://getbootstrap.com/docs/4.5/getting-started/introduction/#starter-template
+LocalStorage:
+    * almacenamiento en el DOM
+
+
+Trate de comentar lo mejor posible el contenido espero te ayude 
+De: destructive (Jose Daniel Ramirez Hinojosa)
+Para: Toda la comunidad de desarrolladores :)
+
+
