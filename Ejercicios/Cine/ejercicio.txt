@@ -1,0 +1,17 @@
+1.-Crear un programa que permita obtener cuantas 
+personas entraron a cada sala del cine en la 
+función de las 3:00 pm, el cine tiene 7 salas 
+con una capacidad máxima de 250 personas, 
+además de calcular la ganancia total si 
+cada boleto tiene un costo de $60.00. 
+Debe usar formularios, ciclos, condicionales, 
+arreglos, etc., deberas de ir explicando cada 
+línea de código por medio de comentarios personales.
+
+
+*Contar cuantas personas entraron a la sala de cine
+
+Datos 
+
+-7 salas hasta 250 personas 
+-boleto 60
